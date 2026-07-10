@@ -6,11 +6,6 @@ import {
   ChevronDown, BookOpen, Wind, DoorOpen, TrendingUp
 } from "lucide-react";
 
-/* ============================================================
-   ADMIN ACCESS CODE — change this before sending codes to clients.
-   Anyone who logs in with this exact code sees the admin dashboard
-   instead of a client portal.
-   ============================================================ */
 const ADMIN_CODE = "MEGADMIN";
 const BRAND_NAME = "The Threshold";
 const BRAND_TAGLINE = "What feels like it will never end — isn't permanent.";
